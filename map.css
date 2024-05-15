@@ -1,0 +1,15 @@
+.state {
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+.state:hover {
+    fill: rgb(62, 151, 211);
+}
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 5px;
+    background: #fff;
+    border: 1px solid #ccc;
+    pointer-events: none;
+}
